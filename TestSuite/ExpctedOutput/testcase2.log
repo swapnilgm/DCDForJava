@@ -1,0 +1,36 @@
+@L24$1 control independent
+@L25$1 control independent
+@L25$1 control independent
+@L26$1 control dependes on  :@L25$1
+@L25$2 control dependes on  :@L25$1
+@L26$2 control dependes on  :@L25$2
+@L25$3 control dependes on  :@L25$2
+@L26$3 control dependes on  :@L25$3
+@L25$4 control dependes on  :@L25$3
+@L26$4 control dependes on  :@L25$4
+@L25$5 control dependes on  :@L25$4
+@L26$5 control dependes on  :@L25$5
+@L25$6 control dependes on  :@L25$5
+@L26$6 control dependes on  :@L25$6
+@L25$7 control dependes on  :@L25$6
+@L26$7 control dependes on  :@L25$7
+@L25$8 control dependes on  :@L25$7
+@L26$8 control dependes on  :@L25$8
+@L25$9 control dependes on  :@L25$8
+@L26$9 control dependes on  :@L25$9
+@L25$10 control dependes on  :@L25$9
+@L26$10 control dependes on  :@L25$10
+@L25$11 control dependes on  :@L25$10
+@L26$11 control dependes on  :@L25$11
+@L25$12 control dependes on  :@L25$11
+@L26$12 control dependes on  :@L25$12
+@L25$13 control dependes on  :@L25$12
+@L26$13 control dependes on  :@L25$13
+@L25$14 control dependes on  :@L25$13
+@L26$14 control dependes on  :@L25$14
+@L25$15 control dependes on  :@L25$14
+@L26$15 control dependes on  :@L25$15
+@L25$16 control dependes on  :@L25$15
+@L26$16 control dependes on  :@L25$16
+@L25$17 control dependes on  :@L25$16
+@L29$1 control independent
